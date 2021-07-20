@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+In this work, I have a preliminary understanding of the creation process of the entire APP. To summarize some notes: If the virtual machine does not function properly after a period of time, you can try to clean up the data in the AVD Manager in AudroidStudio and start it again; If your Android Studio and GitHub account passwords don't match, try using a private token. When Git is not recognized as an internal or external command error, you can try using the automatic way of adding Git path to variables.
 
 ## License
 
